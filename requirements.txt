@@ -1,0 +1,6 @@
+pandas
+tqdm
+chromadb
+google-generativeai
+google-api-core
+ipython
